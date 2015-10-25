@@ -7,8 +7,6 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace RandomActs.Models
 {
-    // Requires following using statements:
-
     public class RandomAct
     {
         public int RandomActId { get; set; }
