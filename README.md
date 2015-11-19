@@ -1,6 +1,5 @@
 # RandomActs
 ASP.NET 4.5 version of RandomActs project
-=========================================
 This project was originally created in Visual Studio 2013, ASP.NET 4.5, MVC 5, and Entity Framework 6. 
 It was recently opened in Visual Studio 2015 and ASP.NET 4.6.
 
